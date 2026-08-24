@@ -1,0 +1,118 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 280" width="100%" height="100%">
+  <defs>
+    <linearGradient id="cpBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#050D1A"/>
+      <stop offset="50%" stop-color="#0B1A30"/>
+      <stop offset="100%" stop-color="#071324"/>
+    </linearGradient>
+
+    <linearGradient id="nodeGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#122A4A"/>
+      <stop offset="100%" stop-color="#0A182E"/>
+    </linearGradient>
+
+    <linearGradient id="highlightGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#163863"/>
+      <stop offset="100%" stop-color="#0D2240"/>
+    </linearGradient>
+
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <style>
+      .title { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-weight: 700; font-size: 13px; fill: #F8FAFC; }
+      .desc { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 10.5px; fill: #94A3B8; }
+      .badge { font-family: 'SF Mono', Consolas, monospace; font-size: 9px; font-weight: 700; fill: #00F5D4; }
+      .flow-label { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 10px; font-weight: 600; fill: #38BDF8; }
+    </style>
+  </defs>
+
+  <!-- Background Canvas -->
+  <rect width="880" height="280" rx="12" fill="url(#cpBg)" stroke="#1E3A5F" stroke-width="1.5"/>
+
+  <!-- Subtle Grid Pattern -->
+  <g opacity="0.12">
+    <line x1="0" y1="70" x2="880" y2="70" stroke="#00B4D8" stroke-width="1" stroke-dasharray="4,4"/>
+    <line x1="0" y1="140" x2="880" y2="140" stroke="#00B4D8" stroke-width="1" stroke-dasharray="4,4"/>
+    <line x1="0" y1="210" x2="880" y2="210" stroke="#00B4D8" stroke-width="1" stroke-dasharray="4,4"/>
+  </g>
+
+  <!-- ================= ROW 1: INGESTION & ORCHESTRATION ================= -->
+
+  <!-- Node 1: Input -->
+  <g transform="translate(35, 30)">
+    <rect width="180" height="58" rx="8" fill="url(#nodeGrad)" stroke="#00B4D8" stroke-width="1.2"/>
+    <rect width="180" height="3" rx="1.5" fill="#00B4D8"/>
+    <text x="14" y="26" class="title">📄 Candidate &amp; Job Input</text>
+    <text x="14" y="46" class="desc">PDF Resume + Target JD</text>
+  </g>
+
+  <!-- Arrow 1 -> 2 -->
+  <path d="M 215 59 L 260 59" stroke="#00F5D4" stroke-width="2" fill="none"/>
+  <polygon points="260,59 252,55 252,63" fill="#00F5D4"/>
+
+  <!-- Node 2: Llama 3.1 Parser -->
+  <g transform="translate(265, 30)">
+    <rect width="190" height="58" rx="8" fill="url(#nodeGrad)" stroke="#00F5D4" stroke-width="1.2"/>
+    <rect width="190" height="3" rx="1.5" fill="#00F5D4"/>
+    <text x="14" y="26" class="title">🦙 Llama 3.1 8B Parser</text>
+    <text x="14" y="46" class="desc">Structured JSON Extraction</text>
+  </g>
+
+  <!-- Arrow 2 -> 3 -->
+  <path d="M 455 59 L 500 59" stroke="#00F5D4" stroke-width="2" fill="none"/>
+  <polygon points="500,59 492,55 492,63" fill="#00F5D4"/>
+
+  <!-- Node 3: LangGraph Engine -->
+  <g transform="translate(505, 24)">
+    <rect width="220" height="68" rx="10" fill="url(#highlightGrad)" stroke="#00F5D4" stroke-width="1.8" filter="url(#glow)"/>
+    <rect width="220" height="3" rx="1.5" fill="#00F5D4"/>
+    <text x="16" y="28" class="title" fill="#FFFFFF">⚡ LangGraph State Engine</text>
+    <text x="16" y="48" class="desc" fill="#E2E8F0">Cyclic State Machine • Checkpoints</text>
+  </g>
+
+  <!-- ================= FORKING CONNECTORS ================= -->
+  <path d="M 615 92 L 615 118 L 220 118 L 220 135" stroke="#00B4D8" stroke-width="1.8" fill="none"/>
+  <polygon points="220,135 216,127 224,127" fill="#00B4D8"/>
+
+  <path d="M 615 92 L 615 118 L 660 118 L 660 135" stroke="#00B4D8" stroke-width="1.8" fill="none"/>
+  <polygon points="660,135 656,127 664,127" fill="#00B4D8"/>
+
+  <text x="280" y="113" class="flow-label">Branch A: Multi-Agent Debate</text>
+  <text x="675" y="113" class="flow-label">Branch B: Deterministic Eval</text>
+
+  <!-- ================= ROW 2: PARALLEL EXECUTION ================= -->
+
+  <!-- Node 4A: Multi-Agent Debate -->
+  <g transform="translate(90, 138)">
+    <rect width="260" height="60" rx="8" fill="url(#nodeGrad)" stroke="#38BDF8" stroke-width="1.2"/>
+    <text x="14" y="25" class="title">🗣️ Advocate vs. Skeptic Debate</text>
+    <text x="14" y="46" class="desc">Iterative Multi-Agent Deliberation</text>
+  </g>
+
+  <!-- Node 4B: Deterministic ATS Engine -->
+  <g transform="translate(530, 138)">
+    <rect width="260" height="60" rx="8" fill="url(#nodeGrad)" stroke="#38BDF8" stroke-width="1.2"/>
+    <text x="14" y="25" class="title">🎯 Deterministic ATS &amp; Gap Engine</text>
+    <text x="14" y="46" class="desc">Hard-Skill Matching &amp; Scoring</text>
+  </g>
+
+  <!-- ================= ROW 3: CONVERGENCE & STREAMING ================= -->
+  <path d="M 220 198 L 220 235 L 305 235" stroke="#00F5D4" stroke-width="1.8" fill="none"/>
+  <polygon points="305,235 297,231 297,239" fill="#00F5D4"/>
+
+  <path d="M 660 198 L 660 235 L 575 235" stroke="#00F5D4" stroke-width="1.8" fill="none"/>
+  <polygon points="575,235 583,231 583,239" fill="#00F5D4"/>
+
+  <!-- Node 5: Manager Synthesis (Final) -->
+  <g transform="translate(310, 212)">
+    <rect width="260" height="52" rx="8" fill="#0D274A" stroke="#00F5D4" stroke-width="1.6" filter="url(#glow)"/>
+    <text x="16" y="24" class="title" fill="#FFFFFF">📊 Manager Verdict (SSE Stream)</text>
+    <text x="16" y="42" class="desc" fill="#38BDF8">Real-time Streamlit &amp; Client Updates</text>
+  </g>
+</svg>
