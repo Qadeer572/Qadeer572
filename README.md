@@ -1,20 +1,207 @@
-💫 About Me:
-About Me :<br><br>- 🔭 I'm currently working on agentic AI systems and full-stack web applications<br>- 🤝 I'm looking to collaborate on LangGraph multi-agent pipelines, RAG applications, and n8n automation projects<br>- 🌱 I'm looking for help with scaling multi-tenant architectures and growing my freelance presence in agentic AI<br>- 🪴 I'm currently learning advanced multi-agent orchestration and production-grade RAG pipelines<br>- 💬 Ask me about LangGraph, LangChain, RAG pipelines, FastAPI, Django, React/Next.js, and multi-agent system design<br>- ⚡ Fun fact: I run a two-agent code review pattern — one AI implements, another independently verifies — before I trust a single line
+<div align="center">
 
-🌐 Socials:<br>
-![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)<br>
-💻 Tech Stack:<br>
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)<br>
-📊 GitHub Stats:<br>
-![](https://github-readme-stats.shion.dev/api?username=Qadeer572&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Qadeer572&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Qadeer572&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br>
-🏆 GitHub Trophies<br>
-![](https://github-profile-trophy.vercel.app/?username=Qadeer572&theme=radical&no-frame=false&no-bg=true&margin-w=4)<br>
-✍️ Random Dev Quote<br>
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)<br>
-🔝 Top Contributed Repo<br>
-![](https://github-contributor-stats.vercel.app/api?username=Qadeer572&limit=5&theme=dark&combine_all_yearly_contributions=true)<br>
+# 🚀 Qadeer Raza
+### **Agentic AI & Generative AI Engineer**
+**Multi-Agent Systems • Production RAG Pipelines • Autonomous LLM Orchestration • Scalable Async Backends**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Qadeer572)
+[![Email](https://img.shields.io/badge/Email-razaqadeer572%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:razaqadeer572@gmail.com)
+[![Status](https://img.shields.io/badge/Status-Open%20for%20AI%20Opportunities-success?style=for-the-badge&logo=codeforces&logoColor=white)](#-lets-connect--hire-me)
+
+<br/>
+
+> *"Bridging deterministic software engineering with stochastic LLMs to build reliable, autonomous agentic systems."*
+
+</div>
+
 ---
-![](https://komarev.com/ghpvc/?username=Qadeer572&icon=0&color=0)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+## 🎯 Executive Summary for Hiring Teams & Engineering Leaders
+
+I am a **Generative AI & Agentic Systems Engineer** specializing in the end-to-end design, orchestration, and deployment of production-grade AI agents and autonomous workflows. 
+
+My core focus lies in transforming cutting-edge LLMs into **deterministic, reliable software systems** through:
+- 🤖 **Stateful Multi-Agent Orchestration**: Building cyclic, stateful agent graphs with **LangGraph**, Supervisor-Worker networks, and Multi-Agent Debate patterns.
+- ⚡ **Production-Grade RAG & Vector Intelligence**: Designing hybrid retrieval pipelines, dynamic context routing, semantic chunking, and low-latency embeddings.
+- 🚀 **High-Throughput Distributed AI Backends**: Architecting async **FastAPI** services, real-time **Server-Sent Events (SSE)** and WebSocket streaming, Redis caching/rate-limiting, and PostgreSQL with GIN/Vector indexing.
+- 🛡️ **Reliability, HITL & Guardrails**: Enforcing strict Pydantic schemas, Human-in-the-Loop checkpoints, and multi-model fallback cascades (Groq ➔ OpenAI ➔ HuggingFace).
+
+---
+
+## 🧠 Core Competencies & Tech Stack
+
+<table>
+  <tr>
+    <td width="28%" valign="top"><b>🤖 Agentic AI & Orchestration</b></td>
+    <td>
+      <code>LangGraph</code> • <code>LangChain</code> • <code>Multi-Agent Systems</code> • <code>State Graphs</code> • <code>Supervisor-Worker Architecture</code> • <code>Human-in-the-Loop (HITL)</code> • <code>Autonomous Tool Calling</code> • <code>Multi-Agent Consensus & Debate</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="28%" valign="top"><b>⚡ Generative AI & LLMs</b></td>
+    <td>
+      <code>OpenAI (GPT-4o)</code> • <code>Groq (Llama 3.1)</code> • <code>HuggingFace</code> • <code>Advanced RAG</code> • <code>Vector Embeddings</code> • <code>Structured JSON Extraction</code> • <code>Prompt Engineering & Evals</code> • <code>Guardrails</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="28%" valign="top"><b>🛠️ Backend & Systems</b></td>
+    <td>
+      <code>Python (AsyncIO)</code> • <code>FastAPI</code> • <code>Django / DRF</code> • <code>Server-Sent Events (SSE)</code> • <code>WebSockets</code> • <code>RESTful APIs</code> • <code>Microservices</code> • <code>Multi-Tenant Security & JWT</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="28%" valign="top"><b>💾 Data & Storage</b></td>
+    <td>
+      <code>PostgreSQL</code> • <code>Redis (Caching & Rate Limiting)</code> • <code>GIN & JSONB Indexing</code> • <code>ChromaDB / FAISS / Vector DBs</code> • <code>SQLAlchemy & Alembic</code> • <code>Supabase / Prisma</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="28%" valign="top"><b>🌐 Full-Stack & Frontend</b></td>
+    <td>
+      <code>Next.js / React</code> • <code>TypeScript / JavaScript</code> • <code>Tailwind CSS</code> • <code>Streamlit</code> • <code>Real-time UIs</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="28%" valign="top"><b>⚙️ DevOps & Cloud</b></td>
+    <td>
+      <code>Docker & Docker Compose</code> • <code>CI/CD (GitHub Actions)</code> • <code>Linux</code> • <code>Vercel Deployments</code> • <code>PyTest Automated Testing</code>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🌟 Featured Agentic & Generative AI Projects
+
+<div align="center">
+
+### 1. 💼 [CareerPilot AI](https://github.com/Qadeer572/CareerPilotAI) — Autonomous Multi-Agent Career Platform
+**Multi-Agent Debate Pipeline • LangGraph • FastAPI • Redis • PostgreSQL • Groq / Hugging Face**
+
+</div>
+
+- **Multi-Agent Consensus Engine**: Implemented an automated 3-agent deliberation loop (**Advocate**, **Skeptic**, and **Hiring Manager**) streaming real-time debates via Server-Sent Events (SSE).
+- **Stateful Readiness Graph**: Built an end-to-end LangGraph evaluation pipeline combining ATS optimization, resume parsing (`Llama 3.1 8B`), deterministic skills gap analysis, and tailored interview prep.
+- **Enterprise-Grade Backend**: Features tenant isolation, Redis-backed rate limiting (SlowAPI), multi-model fallbacks (Groq ➔ HuggingFace), and GIN-indexed structured JSON data.
+
+```
+[Resume / Job Input] ──► [Llama 3.1 Parser] ──► [LangGraph State Engine]
+                                                        │
+                      ┌─────────────────────────────────┴─────────────────────────────────┐
+                      ▼                                                                   ▼
+       [Advocate vs Skeptic Agent Debate]                                      [Deterministic ATS & Gap Engine]
+                      │                                                                   │
+                      └────────────────────────► [Manager Synthesis (SSE Stream)] ◄───────┘
+```
+
+---
+
+<div align="center">
+
+### 2. 🔬 [Autonomous Research Assistant](https://github.com/Qadeer572/Research_Assistant) — Multi-Agent Intelligence Engine
+**LangGraph • FastAPI • Multi-Source Research • Real-time SSE • Human-in-the-Loop**
+
+</div>
+
+- **Multi-Source Autonomous Agent**: Orchestrates real-time web research (Tavily), arXiv academic paper parsing, and NewsAPI retrieval using cyclic LangGraph state machines.
+- **Human-in-the-Loop (HITL) Controls**: Allows users to inspect, approve, or redirect the agent's research scope at critical graph breakpoints.
+- **Automated Synthesis & Publishing**: Generates structured executive summaries and compiles multi-format publication-ready documents (PDF via ReportLab & DOCX).
+
+```
+[Topic Input] ──► [Topic Refinement & Validation] ──► [Parallel Multi-Tool Sourcing] ──► [Synthesis] ──► [PDF/DOCX Output]
+                           │ (Invalid? Feedback Loop)
+                           └──◄── Re-prompt Node
+```
+
+---
+
+<div align="center">
+
+### 3. 🎙️ [Voice AI Agent](https://github.com/Qadeer572/voice_ai_agent) — Real-Time Conversational Voice Assistant
+**Python • Speech Pipelines • LLM Function Calling • Low-Latency Audio Streaming**
+
+</div>
+
+- **Low-Latency Voice Pipeline**: Integrated speech-to-text (STT), LLM reasoning, dynamic tool execution, and text-to-speech (TTS) for natural, sub-second vocal interactions.
+- **Context-Aware Tool Calling**: Enables the voice agent to trigger external APIs and retrieve contextual data in real-time during conversations.
+
+---
+
+<div align="center">
+
+### 4. 🏥 [AI Surgery Rescheduler](https://github.com/Qadeer572/AI_Project_B) — Heuristic AI Optimization System
+**Python • A* Search Algorithm • Machine Learning • Streamlit Dashboard**
+
+</div>
+
+- **Intelligent Rescheduling**: Solves high-constraint medical resource conflicts by deploying **A* Heuristic Search** to dynamically rearrange elective surgeries during emergency surges.
+- **Predictive ML Model**: Estimates emergency surgery probabilities to pre-allocate hospital capacity and reduce patient wait times.
+
+---
+
+## 🏗️ How I Architect Agentic Systems (Design Philosophy)
+
+```
+  ┌─────────────────────────────────────────────────────────────────────────────┐
+  │                      PRODUCTION AGENTIC AI BLUEPRINT                        │
+  └─────────────────────────────────────────────────────────────────────────────┘
+                                         │
+     ┌───────────────────────────────────┼──────────────────────────────────┐
+     ▼                                   ▼                                  ▼
+┌─────────────────────────┐ ┌─────────────────────────┐ ┌──────────────────────────┐
+│   STATE & ROUTING       │ │   GUARDRAILS & EVALS    │ │   STREAMING & RELIABILITY│
+│ • LangGraph StateGraphs │ │ • Strict Pydantic Schema│ │ • Server-Sent Events(SSE)│
+│ • Conditional Branching │ │ • Multi-Agent Cross-Eval│ │ • Redis State Checkpoints│
+│ • Cyclic Self-Correction│ │ • Deterministic Fallback│ │ • Sub-second Latency APIs│
+└─────────────────────────┘ └─────────────────────────┘ └──────────────────────────┘
+```
+
+1. **Deterministic State over Pure Autonomy**: Unbounded agent loops fail in production. I build finite state machines (FSMs) with explicit entry/exit conditions and typed state models.
+2. **Evaluator-Optimizer Feedback Loops**: Agents independently verify critical outputs before finalizing execution, ensuring hallucination rates are minimized.
+3. **Graceful Degeneracy & Multi-Model Cascades**: Production systems shouldn't break when a provider experiences downtime or rate limits. I implement automatic failover routing (e.g. Groq ➔ OpenAI ➔ HuggingFace).
+
+---
+
+## 📊 GitHub Analytics & Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Qadeer572&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10&include_all_commits=true&count_private=true" height="175" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qadeer572&layout=compact&theme=tokyonight&border_radius=10&hide=html,css" height="175" alt="Top Languages" />
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Qadeer572&theme=tokyonight&border_radius=10" height="160" alt="GitHub Streak" />
+
+</div>
+
+---
+
+## 💼 Why Hire Me? (Value Proposition for Recruiters)
+
+- 🚀 **Full-Cycle AI Engineering**: From prompt and agent graph design to Dockerized, secure, multi-tenant API deployment.
+- 💡 **Deep Focus on Reliability**: I specialize in preventing hallucinations, enforcing structured JSON schemas, and implementing deterministic guardrails.
+- ⚡ **Rapid Prototyping to Production**: Proven ability to take agentic ideas from architecture diagrams to tested, real-time streaming products.
+- 🤝 **Clear Communication & Autonomy**: Capable of driving AI initiatives independently or collaborating closely with cross-functional engineering teams.
+
+---
+
+## 📬 Let's Connect & Hire Me!
+
+I am actively exploring **Full-Time, Contract, and High-Impact Roles** including:
+- **Agentic AI Engineer / Multi-Agent Systems Developer**
+- **Generative AI & LLM Application Engineer**
+- **Full-Stack AI Engineer / AI Backend Developer**
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![Email](https://img.shields.io/badge/Email-razaqadeer572%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:razaqadeer572@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Qadeer572)
+
+<br/>
+
+📧 **Email:** [razaqadeer572@gmail.com](mailto:razaqadeer572@gmail.com) &nbsp;|&nbsp; 🌍 **Location:** Available for Remote & Global Opportunities
+
+</div>
