@@ -149,16 +149,20 @@
 
 ---
 
-## 📊 GitHub Analytics & Activity
+## 📊 GitHub Analytics & Real-Time Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.shion.dev/api?username=Qadeer572&show_icons=true&theme=tokyonight&border_radius=10&include_all_commits=true&count_private=false" height="175" alt="GitHub Stats" />
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Qadeer572&layout=compact&theme=tokyonight&border_radius=10&hide=html,css" height="175" alt="Top Languages" />
+<img src="https://github-readme-stats.shion.dev/api?username=Qadeer572&show_icons=true&theme=tokyonight&border_radius=10&include_all_commits=true&hide_rank=true&hide=contribs" height="165" alt="GitHub Stats" />
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Qadeer572&layout=compact&theme=tokyonight&border_radius=10&hide=html,css" height="165" alt="Top Languages" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=Qadeer572&theme=tokyonight&border_radius=10" height="165" alt="GitHub Streak" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Qadeer572&theme=tokyo-night&bg_color=071120&color=00F5D4&line=00B4D8&point=48CAE4&area=true&hide_border=true" width="95%" alt="GitHub Contribution Activity Graph" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com/?user=Qadeer572&theme=tokyonight&border_radius=10" height="160" alt="GitHub Streak" />
 
 </div>
 
