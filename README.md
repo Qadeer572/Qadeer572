@@ -1,31 +1,32 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:0D1117,25:161B22,70:1F6FEB,100:58A6FF&height=220&section=header&text=Qadeer%20Raza&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Agentic%20AI%20%26%20Generative%20AI%20Engineer&descFontSize=18&descAlignY=62&descAlign=50" width="100%" alt="Header Banner" />
 
-# 🚀 Qadeer Raza
-### **Agentic AI & Generative AI Engineer**
-**Multi-Agent Systems • Production RAG Pipelines • Autonomous LLM Orchestration • Scalable Async Backends**
+  <a href="https://github.com/Qadeer572">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+Production-Grade+Multi-Agent+Systems;Architecting+Stateful+Graphs+with+LangGraph;Designing+End-to-End+RAG+%26+LLM+Pipelines;High-Performance+FastAPI+%2B+Real-Time+SSE+Streaming" alt="Typing SVG" />
+  </a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Qadeer572)
-[![Email](https://img.shields.io/badge/Email-razaqadeer572%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:razaqadeer572@gmail.com)
-[![Status](https://img.shields.io/badge/Status-Open%20for%20AI%20Opportunities-success?style=for-the-badge&logo=codeforces&logoColor=white)](#-lets-connect--hire-me)
+  <br/><br/>
 
-<br/>
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+  [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Qadeer572)
+  [![Email](https://img.shields.io/badge/Email-razaqadeer572%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:razaqadeer572@gmail.com)
+  [![Status](https://img.shields.io/badge/Status-Open%20for%20Opportunities-success?style=for-the-badge&logo=codeforces&logoColor=white)](#-lets-connect--hire-me)
 
-> *"Bridging deterministic software engineering with stochastic LLMs to build reliable, autonomous agentic systems."*
+  <br/>
 
+  > *"Bridging deterministic software engineering with stochastic LLMs to build reliable, autonomous agentic systems."*
 </div>
 
 ---
 
-## 🎯 Executive Summary for Hiring Teams & Engineering Leaders
+## 📌 Executive Summary
 
-I am a **Generative AI & Agentic Systems Engineer** specializing in the end-to-end design, orchestration, and deployment of production-grade AI agents and autonomous workflows. 
+**Specialized in architecting autonomous multi-agent systems and high-throughput Generative AI infrastructure.** Focused on converting non-deterministic Large Language Models into reliable, enterprise-ready software pipelines through **stateful graph orchestration (LangGraph)**, **hybrid RAG pipelines**, and **real-time streaming async architectures**.
 
-My core focus lies in transforming cutting-edge LLMs into **deterministic, reliable software systems** through:
-- 🤖 **Stateful Multi-Agent Orchestration**: Building cyclic, stateful agent graphs with **LangGraph**, Supervisor-Worker networks, and Multi-Agent Debate patterns.
-- ⚡ **Production-Grade RAG & Vector Intelligence**: Designing hybrid retrieval pipelines, dynamic context routing, semantic chunking, and low-latency embeddings.
-- 🚀 **High-Throughput Distributed AI Backends**: Architecting async **FastAPI** services, real-time **Server-Sent Events (SSE)** and WebSocket streaming, Redis caching/rate-limiting, and PostgreSQL with GIN/Vector indexing.
-- 🛡️ **Reliability, HITL & Guardrails**: Enforcing strict Pydantic schemas, Human-in-the-Loop checkpoints, and multi-model fallback cascades (Groq ➔ OpenAI ➔ HuggingFace).
+- 🤖 **Multi-Agent Orchestration & Consensus:** Engineered complex multi-agent deliberation topologies (Advocate-Skeptic-Manager debates, Supervisor-Worker networks) and self-healing cyclic graphs with bounded state machines.
+- ⚡ **Deterministic Guardrails & Structured Output:** Eliminating hallucinations through schema-enforced Pydantic validation, dynamic context routing, and Human-in-the-Loop (HITL) checkpoints.
+- 🚀 **Scalable Async & Real-Time Streaming:** Architecting distributed FastAPI backends with sub-second Server-Sent Events (SSE), Redis rate-limiting/caching, and PostgreSQL GIN/Vector indexing.
+- 🛡️ **Multi-Model Resilience:** Implementing production failover cascades across Groq (Llama 3.1), OpenAI, and HuggingFace to ensure zero-downtime reliability.
 
 ---
 
