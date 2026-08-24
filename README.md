@@ -32,46 +32,58 @@
 
 ---
 
-## 🧠 Core Competencies & Tech Stack
+## 🧠 Core Competencies & Technical Skills
 
-<table>
-  <tr>
-    <td width="28%" valign="top"><b>🤖 Agentic AI & Orchestration</b></td>
-    <td>
-      <code>LangGraph</code> • <code>LangChain</code> • <code>Multi-Agent Systems</code> • <code>State Graphs</code> • <code>Supervisor-Worker Architecture</code> • <code>Human-in-the-Loop (HITL)</code> • <code>Autonomous Tool Calling</code> • <code>Multi-Agent Consensus & Debate</code>
-    </td>
-  </tr>
-  <tr>
-    <td width="28%" valign="top"><b>⚡ Generative AI & LLMs</b></td>
-    <td>
-      <code>OpenAI (GPT-4o)</code> • <code>Groq (Llama 3.1)</code> • <code>HuggingFace</code> • <code>Advanced RAG</code> • <code>Vector Embeddings</code> • <code>Structured JSON Extraction</code> • <code>Prompt Engineering & Evals</code> • <code>Guardrails</code>
-    </td>
-  </tr>
-  <tr>
-    <td width="28%" valign="top"><b>🛠️ Backend & Systems</b></td>
-    <td>
-      <code>Python (AsyncIO)</code> • <code>FastAPI</code> • <code>Django / DRF</code> • <code>Server-Sent Events (SSE)</code> • <code>WebSockets</code> • <code>RESTful APIs</code> • <code>Microservices</code> • <code>Multi-Tenant Security & JWT</code>
-    </td>
-  </tr>
-  <tr>
-    <td width="28%" valign="top"><b>💾 Data & Storage</b></td>
-    <td>
-      <code>PostgreSQL</code> • <code>Redis (Caching & Rate Limiting)</code> • <code>GIN & JSONB Indexing</code> • <code>ChromaDB / FAISS / Vector DBs</code> • <code>SQLAlchemy & Alembic</code> • <code>Supabase / Prisma</code>
-    </td>
-  </tr>
-  <tr>
-    <td width="28%" valign="top"><b>🌐 Full-Stack & Frontend</b></td>
-    <td>
-      <code>Next.js / React</code> • <code>TypeScript / JavaScript</code> • <code>Tailwind CSS</code> • <code>Streamlit</code> • <code>Real-time UIs</code>
-    </td>
-  </tr>
-  <tr>
-    <td width="28%" valign="top"><b>⚙️ DevOps & Cloud</b></td>
-    <td>
-      <code>Docker & Docker Compose</code> • <code>CI/CD (GitHub Actions)</code> • <code>Linux</code> • <code>Vercel Deployments</code> • <code>PyTest Automated Testing</code>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,django,postgres,redis,docker,nextjs,react,ts,js,cpp,githubactions,linux,tailwind,prisma,graphql,postman&theme=dark" alt="Skill Icons Strip" />
+</div>
+
+<br/>
+
+### 🤖 Agentic AI & Multi-Agent Systems
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-12344D?style=for-the-badge&logo=langchain&logoColor=00F5D4)
+![Multi-Agent Debate](https://img.shields.io/badge/Multi--Agent_Debate-0F284D?style=for-the-badge&logo=probot&logoColor=00F5D4)
+![State Graphs](https://img.shields.io/badge/State_Graphs-0052CC?style=for-the-badge&logo=diagramsdotnet&logoColor=white)
+![HITL Controls](https://img.shields.io/badge/HITL_Controls-4C1D95?style=for-the-badge&logo=auth0&logoColor=white)
+![Tool Calling](https://img.shields.io/badge/Tool_Calling-0A192F?style=for-the-badge&logo=dependabot&logoColor=38BDF8)
+
+### ⚡ Generative AI, LLMs & Vector Intelligence
+![OpenAI GPT-4o](https://img.shields.io/badge/OpenAI_GPT--4o-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Groq Llama 3.1](https://img.shields.io/badge/Groq_Llama_3.1-F55036?style=for-the-badge&logo=meta&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge&logo=databricks&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS_Vector_Search-0466C8?style=for-the-badge&logo=meta&logoColor=white)
+![Pydantic Evals](https://img.shields.io/badge/Pydantic_Evals-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
+
+### 🛠️ Backend, APIs & Distributed Architecture
+![Python](https://img.shields.io/badge/Python_3.11+-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django REST](https://img.shields.io/badge/Django_REST-092E20?style=for-the-badge&logo=django&logoColor=white)
+![SSE Streaming](https://img.shields.io/badge/SSE_Streaming-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![AsyncIO](https://img.shields.io/badge/AsyncIO-3776AB?style=for-the-badge&logo=python&logoColor=yellow)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+### 💾 Databases & Caching Layer
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
+![Alembic](https://img.shields.io/badge/Alembic-2B3A42?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### 🌐 Frontend & Full-Stack Interfaces
+![Next.js](https://img.shields.io/badge/Next.js_14-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React_18-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+### ⚙️ DevOps, Containers & Testing
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![PyTest](https://img.shields.io/badge/PyTest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
 
@@ -149,21 +161,23 @@
 
 ---
 
-## 📊 GitHub Analytics & Real-Time Activity
+## 📊 Engineering Impact & Contributions
 
 <div align="center">
+  <img src="./assets/metrics.svg" width="100%" alt="Key Engineering Metrics & Contributions" />
+</div>
 
-<img src="https://github-readme-stats.shion.dev/api?username=Qadeer572&show_icons=true&theme=tokyonight&border_radius=10&include_all_commits=true&hide_rank=true&hide=contribs" height="165" alt="GitHub Stats" />
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Qadeer572&layout=compact&theme=tokyonight&border_radius=10&hide=html,css" height="165" alt="Top Languages" />
+<br/>
 
-<br/><br/>
+<div align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Qadeer572&layout=compact&theme=tokyonight&border_radius=10&hide=html,css" height="165" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com/?user=Qadeer572&theme=tokyonight&border_radius=10" height="165" alt="GitHub Streak" />
+</div>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Qadeer572&theme=tokyo-night&bg_color=071120&color=00F5D4&line=00B4D8&point=48CAE4&area=true&hide_border=true" width="95%" alt="GitHub Contribution Activity Graph" />
+<br/>
 
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com/?user=Qadeer572&theme=tokyonight&border_radius=10" height="160" alt="GitHub Streak" />
-
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Qadeer572&theme=tokyo-night&bg_color=071120&color=00F5D4&line=00B4D8&point=48CAE4&area=true&hide_border=true" width="95%" alt="GitHub Contribution Activity Graph" />
 </div>
 
 ---
