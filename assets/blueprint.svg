@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 200" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bpBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#050D1A"/>
+      <stop offset="50%" stop-color="#0B1A30"/>
+      <stop offset="100%" stop-color="#071324"/>
+    </linearGradient>
+
+    <linearGradient id="bpCard" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#122B4D"/>
+      <stop offset="100%" stop-color="#09182E"/>
+    </linearGradient>
+
+    <filter id="bpGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="2.5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <style>
+      .card-h { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-weight: 700; font-size: 13px; fill: #FFFFFF; }
+      .card-b { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 11px; fill: #94A3B8; }
+      .top-h { font-family: 'SF Mono', Consolas, monospace; font-weight: 700; font-size: 11px; letter-spacing: 2px; fill: #00F5D4; }
+    </style>
+  </defs>
+
+  <!-- Background Canvas -->
+  <rect width="880" height="200" rx="12" fill="url(#bpBg)" stroke="#1E3A5F" stroke-width="1.5"/>
+
+  <!-- Top Title Bar -->
+  <g transform="translate(250, 16)">
+    <rect width="380" height="26" rx="13" fill="#0E2442" stroke="#00B4D8" stroke-width="1"/>
+    <text x="190" y="17" text-anchor="middle" class="top-h">PRODUCTION AGENTIC AI BLUEPRINT</text>
+  </g>
+
+  <!-- Card 1: State & Routing -->
+  <g transform="translate(25, 58)">
+    <rect width="260" height="122" rx="10" fill="url(#bpCard)" stroke="#00F5D4" stroke-width="1.2"/>
+    <rect width="260" height="3" rx="1.5" fill="#00F5D4"/>
+    <text x="16" y="28" class="card-h">⚙️ State &amp; Routing</text>
+    <text x="16" y="52" class="card-b">• LangGraph StateGraphs</text>
+    <text x="16" y="72" class="card-b">• Conditional Dynamic Branching</text>
+    <text x="16" y="92" class="card-b">• Cyclic Self-Correction Loops</text>
+  </g>
+
+  <!-- Card 2: Guardrails & Evals -->
+  <g transform="translate(310, 58)">
+    <rect width="260" height="122" rx="10" fill="url(#bpCard)" stroke="#00B4D8" stroke-width="1.2"/>
+    <rect width="260" height="3" rx="1.5" fill="#00B4D8"/>
+    <text x="16" y="28" class="card-h">🛡️ Guardrails &amp; Evals</text>
+    <text x="16" y="52" class="card-b">• Strict Pydantic Schema Validation</text>
+    <text x="16" y="72" class="card-b">• Multi-Agent Cross-Verification</text>
+    <text x="16" y="92" class="card-b">• Deterministic Fallback Logic</text>
+  </g>
+
+  <!-- Card 3: Streaming & Reliability -->
+  <g transform="translate(595, 58)">
+    <rect width="260" height="122" rx="10" fill="url(#bpCard)" stroke="#48CAE4" stroke-width="1.2"/>
+    <rect width="260" height="3" rx="1.5" fill="#48CAE4"/>
+    <text x="16" y="28" class="card-h">⚡ Streaming &amp; Reliability</text>
+    <text x="16" y="52" class="card-b">• Server-Sent Events (SSE)</text>
+    <text x="16" y="72" class="card-b">• Redis Distributed Checkpoints</text>
+    <text x="16" y="92" class="card-b">• Sub-Second Response Latency</text>
+  </g>
+</svg>
