@@ -1,8 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:0D1117,25:161B22,70:1F6FEB,100:58A6FF&height=220&section=header&text=Qadeer%20Raza&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Agentic%20AI%20%26%20Generative%20AI%20Engineer&descFontSize=18&descAlignY=62&descAlign=50" width="100%" alt="Header Banner" />
+  <img src="./assets/banner.svg" width="100%" alt="Qadeer Raza - Agentic AI & Generative AI Systems Engineer Banner" />
+
+  <br/><br/>
 
   <a href="https://github.com/Qadeer572">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+Production-Grade+Multi-Agent+Systems;Architecting+Stateful+Graphs+with+LangGraph;Designing+End-to-End+RAG+%26+LLM+Pipelines;High-Performance+FastAPI+%2B+Real-Time+SSE+Streaming" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&width=650&lines=Building+Production-Grade+Multi-Agent+Systems;Architecting+Stateful+Graphs+with+LangGraph;Designing+End-to-End+RAG+%26+Vector+Pipelines;High-Performance+FastAPI+%2B+Real-Time+SSE+Streaming" alt="Typing SVG" />
   </a>
 
   <br/><br/>
@@ -168,12 +170,12 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Qadeer572&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10&include_all_commits=true&count_private=true" height="175" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qadeer572&layout=compact&theme=tokyonight&border_radius=10&hide=html,css" height="175" alt="Top Languages" />
+<img src="https://github-readme-stats.shion.dev/api?username=Qadeer572&show_icons=true&theme=tokyonight&border_radius=10&include_all_commits=true&count_private=false" height="175" alt="GitHub Stats" />
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Qadeer572&layout=compact&theme=tokyonight&border_radius=10&hide=html,css" height="175" alt="Top Languages" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Qadeer572&theme=tokyonight&border_radius=10" height="160" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=Qadeer572&theme=tokyonight&border_radius=10" height="165" alt="GitHub Streak" />
 
 </div>
 
