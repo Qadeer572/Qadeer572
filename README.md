@@ -88,15 +88,9 @@
 - **Stateful Readiness Graph**: Built an end-to-end LangGraph evaluation pipeline combining ATS optimization, resume parsing (`Llama 3.1 8B`), deterministic skills gap analysis, and tailored interview prep.
 - **Enterprise-Grade Backend**: Features tenant isolation, Redis-backed rate limiting (SlowAPI), multi-model fallbacks (Groq ➔ HuggingFace), and GIN-indexed structured JSON data.
 
-```
-[Resume / Job Input] ──► [Llama 3.1 Parser] ──► [LangGraph State Engine]
-                                                        │
-                      ┌─────────────────────────────────┴─────────────────────────────────┐
-                      ▼                                                                   ▼
-       [Advocate vs Skeptic Agent Debate]                                      [Deterministic ATS & Gap Engine]
-                      │                                                                   │
-                      └────────────────────────► [Manager Synthesis (SSE Stream)] ◄───────┘
-```
+<div align="center">
+  <img src="./assets/careerpilot-flow.svg" width="100%" alt="CareerPilot AI Multi-Agent Flowchart" />
+</div>
 
 ---
 
@@ -111,11 +105,9 @@
 - **Human-in-the-Loop (HITL) Controls**: Allows users to inspect, approve, or redirect the agent's research scope at critical graph breakpoints.
 - **Automated Synthesis & Publishing**: Generates structured executive summaries and compiles multi-format publication-ready documents (PDF via ReportLab & DOCX).
 
-```
-[Topic Input] ──► [Topic Refinement & Validation] ──► [Parallel Multi-Tool Sourcing] ──► [Synthesis] ──► [PDF/DOCX Output]
-                           │ (Invalid? Feedback Loop)
-                           └──◄── Re-prompt Node
-```
+<div align="center">
+  <img src="./assets/research-flow.svg" width="100%" alt="Research Assistant Pipeline Flowchart" />
+</div>
 
 ---
 
@@ -145,20 +137,11 @@
 
 ## 🏗️ How I Architect Agentic Systems (Design Philosophy)
 
-```
-  ┌─────────────────────────────────────────────────────────────────────────────┐
-  │                      PRODUCTION AGENTIC AI BLUEPRINT                        │
-  └─────────────────────────────────────────────────────────────────────────────┘
-                                         │
-     ┌───────────────────────────────────┼──────────────────────────────────┐
-     ▼                                   ▼                                  ▼
-┌─────────────────────────┐ ┌─────────────────────────┐ ┌──────────────────────────┐
-│   STATE & ROUTING       │ │   GUARDRAILS & EVALS    │ │   STREAMING & RELIABILITY│
-│ • LangGraph StateGraphs │ │ • Strict Pydantic Schema│ │ • Server-Sent Events(SSE)│
-│ • Conditional Branching │ │ • Multi-Agent Cross-Eval│ │ • Redis State Checkpoints│
-│ • Cyclic Self-Correction│ │ • Deterministic Fallback│ │ • Sub-second Latency APIs│
-└─────────────────────────┘ └─────────────────────────┘ └──────────────────────────┘
-```
+<div align="center">
+  <img src="./assets/blueprint.svg" width="100%" alt="Production Agentic AI Blueprint" />
+</div>
+
+<br/>
 
 1. **Deterministic State over Pure Autonomy**: Unbounded agent loops fail in production. I build finite state machines (FSMs) with explicit entry/exit conditions and typed state models.
 2. **Evaluator-Optimizer Feedback Loops**: Agents independently verify critical outputs before finalizing execution, ensuring hallucination rates are minimized.
